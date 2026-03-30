@@ -1,7 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import HomePages from "./pages/homePages";
-import ProjectDetails from "./pages/projectDetails";
+
+import HomePages from "./pages/HomePages";
+import ProjectDetails from "./pages/ProjectDetails";
 import Projects from "./pages/Projects";
 
 const App = () => {
