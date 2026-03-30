@@ -216,6 +216,8 @@ const Home = () => {
         <div className="flex flex-col sm:flex-row gap-4">
           <a
             ref={addToBtnRefs}
+            href="/Resume/Smart Sight PAPER final (1).docx"
+            target="_blank"
             className="cursor-pointer px-6 py-3 rounded-lg bg-gradient-to-r from-[#DAC5A7] to-[#cbb18d] text-black font-medium transition-all duration-300 hover:scale-105 hover:shadow-xl"
           >
             DOWNLOAD RESUME

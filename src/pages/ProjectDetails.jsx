@@ -57,7 +57,7 @@ const ProjectDetails = () => {
     },
 
     gsap: {
-      name: "GSAP (MOCKTAIL)",
+      name: "GSAP (COCKTAIL)",
       desc: "High-performance animation UI",
       longDesc:
         "A modern portfolio built using GSAP animations, focusing on smooth UI transitions, performance, and premium user experience. It is my learning phase of gsap where i follow some instruction of instructor and building a good UI with gsap.",
@@ -70,6 +70,22 @@ const ProjectDetails = () => {
         "Uses of animation",
       ],
       github: "https://github.com/Rishav81/GSAP-Cocktail.git",
+    },
+
+    currency: {
+      name: "Currency Converter",
+      desc: "Real-time currency conversion app",
+      longDesc:
+        "Currency converter is a asimple web application that allows users to convert amounuts between different currencies in real-time. It fetches live exchange rates from a reliable API and provides an intutive interface for users to input amounts and select currencies, making it easy to get approx accurate conversion results instantly.",
+      img: "/images/currency.jpg",
+      tech: ["JS", "API Integration"],
+      features: [
+        "Real-time exchange rates",
+        "User-friendly interface",
+        "Supports multiple currencies",
+        "Instant conversion results",
+      ],
+      github: "https://github.com/Rishav81/Currency-Converter.git",
     },
   };
 
