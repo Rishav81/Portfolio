@@ -1,12 +1,9 @@
 # Rishav Kumar | Web Developer Portfolio
 
-![Portfolio Banner](https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=904&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-[![Website](https://img.shields.io/badge/Portfolio-Live-brightgreen)](#) <!-- Replace # with live URL -->
-[![React](https://img.shields.io/badge/React-17.0-blue?logo=react)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-blue?logo=tailwind-css)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-3.12-lightgreen)](https://greensock.com/gsap/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+<p align="center">
+  <img src="./public/images/home.png" width="800"/>
+ 
+</p>
 
 ---
 
