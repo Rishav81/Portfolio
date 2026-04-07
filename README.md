@@ -74,29 +74,33 @@ _(Replace # with your project URLs)_
 **Home Section**
 
 <p align="center">
-  <img src="./public/home.png" width="800"/>
+  <img src="./public/images/home.png" width="800"/>
  
 </p>
 
 ### About & SKILL
 
 <p align="center">
-  <img src="./public/skill and about.png" width="800"/>
+  <img src="./public/images/skill and about.png" width="800"/>
   
 </p>
 
 **Projects Section**
 
 <p align="center">
-  <img src="./public/project.png" width="800"/>
+  <img src="./public/images/project.png" width="800"/>
 
 </p>
 
 ### Contact
 
 <p align="center">
-  <img src="./public/contact.png" width="800"/>
+  <img src="./public/images/contact.png" width="800"/>
   
 </p>
 
 ---
+
+### AUTHOR
+
+Rishav kumar
