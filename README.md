@@ -71,13 +71,32 @@ _(Replace # with your project URLs)_
 
 ## 🖼 Screenshots
 
-**Home Section**  
-![Home Screenshot](https://via.placeholder.com/800x400?text=Home+Section)
+**Home Section**
 
-**Skills Section**  
-![Skills Screenshot](https://via.placeholder.com/800x400?text=Skills+Section)
+<p align="center">
+  <img src="./public/home.png" width="800"/>
+ 
+</p>
 
-**Projects Section**  
-![Projects Screenshot](https://via.placeholder.com/800x400?text=Projects+Section)
+### About & SKILL
+
+<p align="center">
+  <img src="./public/skill and about.png" width="800"/>
+  
+</p>
+
+**Projects Section**
+
+<p align="center">
+  <img src="./public/project.png" width="800"/>
+
+</p>
+
+### Contact
+
+<p align="center">
+  <img src="./public/contact.png" width="800"/>
+  
+</p>
 
 ---
